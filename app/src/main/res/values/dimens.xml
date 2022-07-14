@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="recipe_details_textSize">14sp</dimen>
+    <dimen name="recipe_details_textSize_title">16sp</dimen>
+    <dimen name="grey_border_stroke_size">1dp</dimen>
+    <dimen name="dashboard_item_paddingStartEnd">10dp</dimen>
+    <dimen name="dashboard_item_paddingTopBottom">5dp</dimen>
+    <dimen name="item_image_width">80dp</dimen>
+    <dimen name="item_image_height">70dp</dimen>
+</resources>

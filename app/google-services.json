@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1035114666613",
+    "project_id": "recipecreator-d1e21",
+    "storage_bucket": "recipecreator-d1e21.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1035114666613:android:fe87d0910a68b94187363c",
+        "android_client_info": {
+          "package_name": "com.example.recipecreatorapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1035114666613-euv0e67rof2ve8ctp2r93j90atvbv0nn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.recipecreatorapp",
+            "certificate_hash": "105bc18cd67bca64514d7f9d1ed7f9c58df0c8f7"
+          }
+        },
+        {
+          "client_id": "1035114666613-r21puui8kj4qm2atm286ua5u9f6li4rb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgwsoJKlVge_ZQPIJBbLpGpkCYL1v1VSQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1035114666613-r21puui8kj4qm2atm286ua5u9f6li4rb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
